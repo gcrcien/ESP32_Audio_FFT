@@ -47,6 +47,7 @@ FFT view: vertical green bars representing signal magnitude
 Waterfall view: scrolling spectral heatmap with colors for intensity
 
 Colors are calculated with the intensityToColor() function for a smooth gradient.
+![fft_1](https://github.com/user-attachments/assets/551175d5-2cd6-4819-8896-104f5c64168a)
 
 🔍 Key Functions
 captureSamples() — Samples analog data at precise intervals
